@@ -1,8 +1,8 @@
 # AlgoritmiAvanzati
 
-Questi sono esercizi svolti per il corso di algoritmi avanati.
+Questi sono esercizi svolti per il corso di algoritmi avanzati.
 
-Gli esercizi non sono stati corretti dal professore, sono stati solo svolti.
+Gli esercizi **non** sono stati corretti dal professore, sono stati solo svolti.
 
 Ci possono essere errori (Quindi studiate anche).
 
